@@ -1,0 +1,19 @@
+body{
+  background-color: #F3F2EF;
+}
+
+#container{
+  margin: auto;
+  margin-top: 10vh;
+  width: 50%;
+  background-color: #FFFFFF;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 15px;
+}
+
+h2{
+  padding-top: 10px;
+}
+
