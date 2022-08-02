@@ -2,6 +2,10 @@ body{
   background-color: #F3F2EF;
 }
 
+h2{
+  padding-top: 10px;
+}
+
 #container{
   margin: auto;
   margin-top: 10vh;
@@ -13,7 +17,5 @@ body{
   border-radius: 15px;
 }
 
-h2{
-  padding-top: 10px;
-}
+
 
